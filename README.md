@@ -26,12 +26,12 @@ The portfolio is built using a Mobile-First approach. Whether viewed on a 4K mon
 ⚙️ Setup & Deployment
 Clone the repo:
 
-Bash
+1. Bash
 
-git clone https://github.com/yourusername/advance-portfolio.git
+git clone(https://github.com/pritampp2004/Advance-Portfolio)
 
 
-Customization:
+2. Customization:
 
 Modify index.html with your personal details.
 
